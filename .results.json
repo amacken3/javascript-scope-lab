@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2026-03-10T18:09:59.961Z",
-    "end": "2026-03-10T18:10:05.331Z",
-    "duration": 5370
+    "start": "2026-03-10T18:19:57.279Z",
+    "end": "2026-03-10T18:20:03.012Z",
+    "duration": 5733
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook",
       "fullTitle": "\"before all\" hook",
-      "duration": 5368,
+      "duration": 5730,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 5000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules/mocha-jsdom/index.js:70:7)\n    at /mnt/c/flatiron-week-1/javascript-scope-lab/node_modules/jsdom/lib/jsdom.js:312:18\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)",
